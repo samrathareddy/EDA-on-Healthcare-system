@@ -1,4 +1,4 @@
-# 🩺 Exploratory Data Analysis on Healthcare System  
+# 🩺 Healthcare Analytics using Python  
 _A Data Exploration Project by Samratha Reddy_
 
 ## 📊 Project Overview
